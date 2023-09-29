@@ -28,14 +28,13 @@ export default function Welcome() {
                         className="text-5xl font-bold text-white"
                         style={{ fontSize: wp(10) }}
                     >
-                        Traveling made easy!
+                        Bangladesh Tourism
                     </Text>
                     <Text
                         className="font-medium text-neutral-200"
                         style={{ fontSize: wp(4) }}
                     >
-                        Experience the world's best adventure around the world
-                        with us
+                        Experience the country's most stunning destinations
                     </Text>
                 </View>
                 <TouchableOpacity
