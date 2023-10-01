@@ -7,6 +7,7 @@ export const categoriesData = [
     {
         title: "River",
         image: require("../assets/images/river.png"),
+        image: require("../assets/images/river.png"),
     },
     {
         title: "Beach",
